@@ -1,0 +1,39 @@
+h1 {
+  color: midnightblue;
+}
+.lives {
+  color: coral;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+footer {
+  height: 75px;
+  background-color: blanchedalmond;
+}
+.first {
+  float: left;
+  margin: 14px;
+}
+.about:link {
+  text-decoration: none;
+  color: chocolate;
+}
+.about:visited {
+  text-decoration: none;
+  color: brown;
+}
+.opp:link {
+  color: coral;
+  text-decoration: none;
+}
+.third {
+  color: midnightblue;
+}
+.main2 {
+  background-color: antiquewhite;
+}
+.location:link {
+  text-decoration: none;
+  color: coral;
+}
